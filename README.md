@@ -2,6 +2,8 @@
 
 A minimalist Chrome extension that blocks access to YouTube and tracks your access attempts.
 
+<img src="screenshot.png" alt="YouTube Blocker Screenshot" style="max-width: 500px; height: auto;"/>
+
 ## Features
 
 -  Blocks access to youtube.com and www.youtube.com
